@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 
 from config import *
 
-combot_url = 'https://combot.org/top/telegram/groups'
 tgstat_url = 'https://uk.tgstat.com/ratings/channels'
 
 is_searching = False
